@@ -64,3 +64,8 @@ img {
   margin: 5px;
   padding: 1px;
 }
+
+.footer-inside, .header-inside{
+  width: 1020px;
+  margin: 0 auto;
+}
